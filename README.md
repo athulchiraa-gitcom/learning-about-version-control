@@ -2,4 +2,4 @@
 
 Author : Athul Sasidharan
 
-Solving merge conflicts is soooooo hard!
+Solving merge conflicts is easy!
